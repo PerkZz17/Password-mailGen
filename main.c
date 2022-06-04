@@ -14,7 +14,7 @@ int main(void) {
 
 	int userInput;
 
-	printf("Enter the amount of passwords/mail combo you want to generate: ");
+	printf("Enter the amount of password/mail combo you want to generate: ");
 	scanf("%d", &userInput);
 	int index;
 
