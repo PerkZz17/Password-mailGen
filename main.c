@@ -3,7 +3,7 @@
 #include <time.h>
 int main(void) {
 
-	FILE* file = fopen("Combos.txt", "w");
+	FILE* file = fopen("List.txt", "w");
 	if (file == NULL) {
 		printf("Error opening file\n");
 		return 1;
